@@ -269,8 +269,6 @@ Source: yfinance / Yahoo Finance
 Notes: 1D and 5D use actual trading days. Calendar periods use the most recent trading price on or before the target date. Percentages are 
 rounded to two decimal places. CAGR is computed using the geometric mean formula.
 ```
-![Uploading image.png…]()
-
 
 ---
 

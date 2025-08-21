@@ -84,7 +84,7 @@ source .venv/bin/activate       # macOS / Linux
 pip install -r requirements.txt
 ```
 
-If `requirements.txt` is not present, install the core dependencies directly:
+If you want to install the core dependencies directly:
 
 ```bash
 pip install yfinance pandas python-dateutil rich

@@ -281,6 +281,6 @@ This repository is distributed under the MIT License. See the `LICENSE` file in 
 
 ## Contact
 
-For questions, issues, or contributions, please use the GitHub Issues tab on the repository:
+For questions, issues, or contributions, please use the below link on the repository to contact me:
 
-https://github.com/iammohith/Indian-Stocks-Snapshot-Displayer
+[Mohith Sai Gorla](https://www.linkedin.com/in/mohith-sai-gorla-75930318b/)
